@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Doc-Izaz
 - 👀 I’m interested in building and breaking things
-- 🌱 I’m currently learning a lot 
+- 🌱 I’m currently learning node.js + python
 - 📫 How to reach me, DM discord: Doc_Izaz.sol#2464
 
 <!---
